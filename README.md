@@ -1,4 +1,4 @@
-# Incredible-AHK-Scripts
+# Small AHK Scripts
 A few simple things that I often use
 
 how to autorun script?
